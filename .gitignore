@@ -1,0 +1,5 @@
+# Ignore everything in sample_data
+sample_data/**
+
+# Allow a placeholder file if needed
+!sample_data/.gitkeep
